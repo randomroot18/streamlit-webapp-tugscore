@@ -6,4 +6,5 @@ mediapipe
 pandas
 numpy
 sklearn
-
+scipy
+pickle
