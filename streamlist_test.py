@@ -15,7 +15,7 @@ from matplotlib import pyplot as plt
 import time 
 import mediapipe as mp
 import math 
-from tinytag import TinyTag
+# from tinytag import TinyTag
 from scipy.signal import argrelextrema
 from scipy.signal import find_peaks
 import pandas as pd
