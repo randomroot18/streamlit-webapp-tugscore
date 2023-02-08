@@ -2,7 +2,7 @@ import streamlit as st
 # from streamlit_webrtc import (VideoProcessorBase, RTCConfiguration,WebRtcMode,webrtc_streamer)
 # from utils import *
 # import av
-from PIL import Image
+# from PIL import Image
 import base64
 import requests
 import numpy as np
