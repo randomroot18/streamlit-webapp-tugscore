@@ -1,6 +1,5 @@
 streamlit==1.17.0
 requests==2.27.1
-PIL==9.3.0
 opencv-python==4.6.0
 streamlit==1.17.0
 matplotlib==3.5.2
