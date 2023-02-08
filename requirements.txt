@@ -5,5 +5,5 @@ matplotlib
 mediapipe
 pandas
 numpy
-sklearn
+scikit-learn
 scipy
