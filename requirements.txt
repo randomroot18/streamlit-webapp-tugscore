@@ -6,4 +6,4 @@ mediapipe
 pandas
 numpy
 sklearn
-libgl1
+
