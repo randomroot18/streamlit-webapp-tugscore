@@ -11,4 +11,8 @@ The web-app can be found here : https://careyaya-fallprev.streamlit.app/
 
 Developer: Arjun Pajni (@randomroot18)
 
-For sample data and videos, for testing and validation reach out to arjun@careyaya.org with subject fall-prev-queries
+For sample data and videos, for testing and validation reach out to arjun@careyaya.org with subject fall-prev-queries.
+
+For additional details find the blog post here : https://www.careyaya.org/resources/blog/prevent-falls-technical
+
+Future updates coming soon!
