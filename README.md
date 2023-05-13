@@ -7,7 +7,7 @@ This version of the project was developed in collaboration with Careyaya Health 
 
 This low code version of the webapp is deployed on streamlit to allow maximum flexibility with tailored UI needs. Potential future versions will be developed under a full stack framework with a strong backend to support fast quick processing speeds for keypoint and posed detection.
 
-The web-app can be found here : https://careyaya-fallprev.streamlit.app/
+The web-app can be found here : https://fallprev.streamlit.app/
 
 Developer: Arjun Pajni (@randomroot18)
 
