@@ -3,7 +3,7 @@
 ![image](https://github.com/randomroot18/streamlit-webapp-tugscore/blob/main/careyaya_logo-removebg-preview.png?raw=true)
 
 
-This version of the project was developed in collaboration with Careyaya Health Technologies and is one of the initial approaches to setup an ML based pipeline for Fall Risk detection and TUG score calculation.
+This version of the project was developed in collaboration with Careyaya Health Technologies and is one of the original approaches to setup an ML based pipeline for Fall Risk detection and TUG score calculation.
 
 This low code version of the webapp is deployed on streamlit to allow maximum flexibility with tailored UI needs. Potential future versions will be developed under a full stack framework with a strong backend to support fast quick processing speeds for keypoint and posed detection.
 
