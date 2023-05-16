@@ -17,4 +17,4 @@ For additional details find the blog post here : https://www.careyaya.org/resour
 
 Future updates coming soon!
 
-**This is not the full version**
+**\*This is not the full version**
