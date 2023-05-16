@@ -5,7 +5,7 @@
 
 This version of the project was developed in collaboration with Careyaya Health Technologies and is one of the original approaches to setup an ML based pipeline for Fall Risk detection and TUG score calculation.
 
-This low code version of the webapp is deployed on streamlit to allow maximum flexibility with tailored UI needs. Potential future versions will be developed under a full stack framework with a strong backend to support fast quick processing speeds for keypoint and posed detection.
+This low code version of the webapp is deployed on streamlit to allow maximum flexibility with tailored and simple UI needs. Potential future versions will be developed under a full stack framework with a strong backend to support fast quick processing speeds for keypoint and posed detection.
 
 The web-app can be found here : https://fallprev.streamlit.app/
 
@@ -16,3 +16,5 @@ For sample data and videos, for testing and validation reach out to arjun@careya
 For additional details find the blog post here : https://www.careyaya.org/resources/blog/prevent-falls-technical
 
 Future updates coming soon!
+
+**This is not the full version**
