@@ -519,12 +519,12 @@ def TUG_for_age(age):
             return 11.3
 
 
-url = "https://github.com/randomroot18/streamlit-webapp-tugscore/blob/main/careyaya_logo-removebg-preview.png"
+# url = "https://github.com/randomroot18/streamlit-webapp-tugscore/blob/main/careyaya_logo-removebg-preview.png"
 
-r = requests.get(url) 
-png_data = r.content
+# r = requests.get(url) 
+# png_data = r.content
 
-render_png(png_data) 
+# render_png(png_data) 
 
 # picture = st.camera_input("Take a picture")
 
