@@ -513,7 +513,7 @@ def TUG_for_age(age):
             return 11.3
 
 
-url = "https://www.careyaya.org/build/_assets/logo_bright-JIO26Q5Y.svg"
+url = "https://github.com/randomroot18/streamlit-webapp-tugscore/blob/main/careyaya_logo-removebg-preview.png"
 
 r = requests.get(url) 
 svg = r.content.decode()
