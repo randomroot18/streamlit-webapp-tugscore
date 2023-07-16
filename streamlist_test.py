@@ -29,6 +29,12 @@ def render_svg(svg):
     html = r'<img src="data:image/svg+xml;base64,%s"/>' % b64
     st.write(html, unsafe_allow_html=True)
 
+def render_png(png):
+    # Renders the given PNG data
+    b64 = base64.b64encode(png).decode("utf-8")
+    html = r'<img src="data:image/png;base64,%s"/>' % b64
+    st.write(html, unsafe_allow_html=True)
+
 
 mpDraw = mp.solutions.drawing_utils
 mpPose = mp.solutions.pose
@@ -516,9 +522,9 @@ def TUG_for_age(age):
 url = "https://github.com/randomroot18/streamlit-webapp-tugscore/blob/main/careyaya_logo-removebg-preview.png"
 
 r = requests.get(url) 
-svg = r.content.decode()
+png_data = r.content
 
-render_svg(svg) 
+render_png(png_data) 
 
 # picture = st.camera_input("Take a picture")
 
